@@ -1,24 +1,32 @@
 body {
   text-align: center;
-  background: url("http://whalebonemag.com/wp-content/uploads/2015/08/DSC_4647-Edit-1050x701.jpg");
+  background: url(images/hotdawg.jpg);
   background-size: cover;
   color: #fff;
   font-family: Helvetica;
 }
 
 h1 {
+  text-transform: uppercase;
 	font-weight: bold;
 	color: #2FFFF3;
 }
 
 hr {
-  width: 200px;
+  width: 600px;
 }
 
 #slogan {
 	font-style: italic;
 }
 
+#fomo {
+  font-size:10px;
+}
+
 p {
   font-size: 20px;
+}
+
+#email {font-size: 10px;
 }
